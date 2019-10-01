@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c0b2cbb-ddbe-4a48-ac11-3595df3572ed" name="Default Changelist" comment="" />
+    <list default="true" id="0c0b2cbb-ddbe-4a48-ac11-3595df3572ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +28,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1RYCD8yDMbQA9JYmLfnxYyjgdpj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -116,33 +125,33 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="283" y="265" width="374" height="577" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1569835197746" />
-    <state width="914" height="278" key="GridCell.Tab.0.bottom" timestamp="1569838946535">
+    <state width="914" height="278" key="GridCell.Tab.0.bottom" timestamp="1569846214505">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="914" height="278" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1569838946535" />
-    <state width="914" height="278" key="GridCell.Tab.0.center" timestamp="1569838946534">
+    <state width="914" height="278" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1569846214505" />
+    <state width="914" height="278" key="GridCell.Tab.0.center" timestamp="1569846214505">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="914" height="278" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1569838946534" />
-    <state width="914" height="278" key="GridCell.Tab.0.left" timestamp="1569838946530">
+    <state width="914" height="278" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1569846214505" />
+    <state width="914" height="278" key="GridCell.Tab.0.left" timestamp="1569846214504">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="914" height="278" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1569838946530" />
-    <state width="914" height="278" key="GridCell.Tab.0.right" timestamp="1569838946534">
+    <state width="914" height="278" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1569846214504" />
+    <state width="914" height="278" key="GridCell.Tab.0.right" timestamp="1569846214505">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="914" height="278" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1569838946534" />
+    <state width="914" height="278" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1569846214505" />
     <state x="8" y="211" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1569836435062">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="8" y="211" width="924" height="684" key="Maven.ArtifactSearchDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1569836435062" />
-    <state x="131" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1569836543254">
+    <state x="131" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1569907181046">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="131" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1569836543254" />
-    <state x="143" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1569837609077">
+    <state x="131" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1569907181046" />
+    <state x="143" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1569923330339">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="143" y="257" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1569837609077" />
+    <state x="143" y="257" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1569923330339" />
   </component>
 </project>
